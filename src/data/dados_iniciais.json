@@ -1,0 +1,162 @@
+{
+  "categorias": [
+    {
+      "titulo": "Investimento em Ações",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Aprendendo tudo sobre Ações",
+        "url": "https://www.youtube.com/results?search_query=tudo+sobre+a%C3%A7%C3%B5es"
+      },
+      "videos": [
+        {
+          "titulo": "COMO COMEÇAR A INVESTIR | O passo a passo COMPLETO ",
+          "url": "https://www.youtube.com/watch?v=PtAkxzMhobQ&t=1s"
+        },
+        {
+          "titulo": "5 PASSOS PRA INVESTIR EM AÇÕES! Entrar agora na Bolsa ou esperar?",
+          "url": "https://www.youtube.com/watch?v=F53-_i9fr-0"
+        },
+        {
+          "titulo": "COMO ANALISAR UMA AÇÃO | Como escolher empresas para investir",
+          "url": "https://www.youtube.com/watch?v=VF8Z7ZwCFQ0&list=RDQMH-KmPrAWuWI&start_radio=1"
+        },
+        {
+          "titulo": "Como Analisar Uma Empresa | Como eu analiso as ações que invisto",
+          "url": "https://www.youtube.com/watch?v=KpwtM2QfBU0&list=RDQMH-KmPrAWuWI&index=11"
+        },
+        {
+          "titulo": "COMO GANHAR DINHEIRO COM AÇÕES? APENAS PARA INICIANTES",
+          "url": "https://www.youtube.com/watch?v=0xsFhL9sXxo"
+        },
+        {
+          "titulo": "Os 2 ÚNICOS momentos em que devemos VENDER uma AÇÃO",
+          "url": "https://www.youtube.com/watch?v=QB1Z-8gB2aw&list=RDQMH-KmPrAWuWI&index=2"
+        },
+        {
+          "titulo": "TUDO sobre como declarar AÇÕES no Imposto de Renda 2020 | Declarando ações NA PRÁTICA no IRPF",
+          "url": "https://www.youtube.com/watch?v=w3fqJ_G-8Mw&t"
+        },
+        {
+          "titulo": "https://www.youtube.com/watch?v=4_pDaSkklo0",
+          "url": "Onde eu analiso dados para INVESTIR em AÇÕES"
+        }        
+      ]
+    },
+    {
+      "titulo": "Fundos Imobiliários",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Aprendendo sobre Fundos Imobiliários",
+        "url": "https://www.youtube.com/results?search_query=fundos+imobiliarios"
+      },
+      "videos": [
+        {
+          "titulo": "COMO INVESTIR PRA VIVER DE RENDA COM FUNDOS IMOBILIARIOS EM 2020? | Exemplos REAIS e PRÁTICOS!",
+          "url": "https://www.youtube.com/watch?v=rhXn31-CKrg"
+        },
+        {
+          "titulo": "TUDO sobre FUNDOS IMOBILIÁRIOS (FII) e por que eles são MELHORES que IMÓVEIS",
+          "url": "https://www.youtube.com/watch?v=OcQL44iE_a8"
+        },
+        {
+          "titulo": "Investindo R$ 117,96 em FUNDOS IMOBILIÁRIOS! (NA PRÁTICA, como COMPRAR e VENDER um FII)",
+          "url": "https://www.youtube.com/watch?v=pvoNLViqQDw"
+        },
+        {
+          "titulo": "Como escolher o MELHOR FUNDO IMOBILIÁRIO (FII) da BOLSA DE VALORES",
+          "url": "https://www.youtube.com/watch?v=VUwU9wt2s7w"
+        }, 
+        {
+          "titulo": "7 coisas que VOCÊ DEVE SABER antes de investir em FIIs (FUNDOS IMOBILIÁRIOS)! ft Arthur Moraes",
+          "url": "https://www.youtube.com/watch?v=aTH9uuTDkek&t=1264s"
+        }
+      ]
+    },
+    {
+      "titulo": "Opções",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Aprendendo sobre Opções",
+        "url": "https://www.youtube.com/results?search_query=op%C3%A7%C3%B5es"
+      },
+      "videos": [
+        {
+          "titulo": "GUIA BÁSICO DE OPÇÕES! Aprenda a operar opções na bolsa mesmo sendo iniciante!",
+          "url": "https://www.youtube.com/watch?v=Q51Vu0-0LQE"
+        },
+        {
+          "titulo": "Tudo que um iniciante em opções precisa saber",
+          "url": "https://www.youtube.com/watch?v=0YzySRj6PTI"
+        },
+        {
+          "titulo": "O que é a Estratégia do pozinho - Opções para Iniciante",
+          "url": "https://www.youtube.com/watch?v=fgZKvA5dc3I"
+        },
+        {
+          "titulo": "Mercado de OPÇÕES para iniciantes!",
+          "url": "https://www.youtube.com/watch?v=LoV8SioLb9o"
+        },
+        {
+          "titulo": "Opções: não opere antes de saber isso",
+          "url": "https://www.youtube.com/watch?v=dz7_IuW2lWA"
+        },
+        {
+          "titulo": "Aprenda como funciona a Tributação de Opções",
+          "url": "https://www.youtube.com/watch?v=eAywitPYaRU"
+        }
+      ]
+    },
+    {
+      "titulo": "Literatura + Investimentos",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "6 LIVROS QUE TODO INVESTIDOR DEVERIA LER!",
+          "url": "https://www.youtube.com/watch?v=Ej9Yfpw8zo4"
+        },
+        {
+          "titulo": "OS 5 MELHORES LIVROS SOBRE INVESTIMENTOS que você PRECISA ler",
+          "url": "https://www.youtube.com/watch?v=IXLSvEvHVao&t=125s"
+        },
+        {
+          "titulo": "5 LIVROS PARA O INVESTIDOR INICIANTE || FAVELADO INVESTIDOR",
+          "url": "https://www.youtube.com/watch?v=0JxybXG2ggE"
+        },
+        {
+          "titulo": "5 LIVROS para o Investidor Iniciante | NÃO DEIXE DE LER!",
+          "url": "https://www.youtube.com/watch?v=CswmT2KPtUs"
+        }
+      ]
+    },
+    {
+      "titulo": "Como começar a investir?",
+      "cor": "red",
+      "link_extra": {
+        "text": "Começando a investir e economizando dinheiro"
+      },
+      "videos": [
+        {
+          "titulo": "Onde INVESTIR de 100 reais a 1000 reais?! (Investindo com pouco dinheiro) NA PRÁTICA",
+          "url": "https://www.youtube.com/watch?v=oR1vP5X_FiQ"
+        },
+        {
+          "titulo": "5 truques que te fazem economizar MUITO dinheiro MUITO rápido!",
+          "url": "https://www.youtube.com/watch?v=6nozjRdiOps"
+        },
+        {
+          "titulo": "COMO INVESTIR COM POUCO DINHEIRO EM 2020! (Para iniciantes e não iniciantes)",
+          "url": "https://www.youtube.com/watch?v=9ofihrrKzII"
+        },
+        {
+          "titulo": "GUIA BEM BÁSICO pra começar a investir com POUCO DINHEIRO! Saiba tudo em 10 minutos",
+          "url": "https://www.youtube.com/watch?v=aGGYFxLdFMw"
+        },
+        {
+          "titulo": "Como Juntar Dinheiro: Truque INFALÍVEL p/ quem ganha pouco!",
+          "url": "https://www.youtube.com/watch?v=8z0L8KvhVhI"
+        }
+      ]
+    }
+  ]
+}
